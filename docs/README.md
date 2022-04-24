@@ -1,6 +1,3 @@
-# npmjs.tk
-npm package mirror.
-
 ## Points of Presence
 
 
@@ -20,4 +17,8 @@ To use the mirror for all npm commands, set the registry configuration variable.
 ```bash
 npm config set registry https://registry.npmjs.tk/
 ```
+
+## Maintainers
+[mapxn](https://mapxn.ml)
+
 Updated: {docsify-updated}
