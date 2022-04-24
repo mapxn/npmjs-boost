@@ -6,4 +6,5 @@
 - 由Cloudflare提供全球加速
 
 [GitHub](https://github.com/mapxn/npmjs.tk/)
+[Registry](https://registry.npmjs.tk)
 [Start](/#points-of-presence)
