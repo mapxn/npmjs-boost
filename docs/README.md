@@ -20,5 +20,3 @@ npm config set registry https://registry.npmjs.tk/
 
 ## Maintainers
 [mapxn](https://mapxn.ml)
-
-Updated: {docsify-updated}
