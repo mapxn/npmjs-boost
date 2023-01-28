@@ -20,4 +20,3 @@ To use the mirror for all npm commands, set the `registry` configuration variabl
 ```bash
 npm config set registry https://registry.npmjs.tk/
 ```
-Updated: {docsify-updated}
