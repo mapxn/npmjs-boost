@@ -1,21 +1,21 @@
-# npmjs.tk
-npm package mirror.
+# npmjs-boost
 
-## Points of Presence
+简体中文 / [English](./README.en.md)
 
+> 一个NPM加速工具
 
-The npmjs.tk mirror is available on Cloudflare's lots of edge locations in North America, South America, Europe, Africa, Asia, and Australia.
+## 节点位置
+npmjs.tk 镜像可通过 Cloudflare 在北美、南美、欧洲、非洲、亚洲和澳大利亚的许多边缘节点获得。
 
-## Usage
-Switching to the npmjs.tk mirror is effortless, quick, and easy.
-
-For a single command, pass the mirror to the `--registry` argument.
+## 使用方法
+切换到 npmjs.tk 镜像很简单、快速和方便。
+对单个命令,可以通过 --registry 参数传入镜像。
 
 ```bash
 npm install --registry https://registry.npmjs.tk/ express
 ```
 
-To use the mirror for all npm commands, set the `registry` configuration variable.
+要对所有 npm 命令使用镜像,可以设置 registry 配置变量。
 
 ```bash
 npm config set registry https://registry.npmjs.tk/
