@@ -12,11 +12,11 @@ npmjs.tk 镜像可通过 Cloudflare 在北美、南美、欧洲、非洲、亚�
 对单个命令,可以通过 --registry 参数传入镜像。
 
 ```bash
-npm install --registry https://registry.npmjs.tk/ express
+npm install --registry https://npm-registry.wnwd.eu.org/ express
 ```
 
 要对所有 npm 命令使用镜像,可以设置 registry 配置变量。
 
 ```bash
-npm config set registry https://registry.npmjs.tk/
+npm config set registry https://npm-booster.wnwd.eu.org/
 ```
