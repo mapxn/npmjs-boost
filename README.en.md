@@ -21,5 +21,5 @@ npm install --registry https://npm-registry.wnwd.eu.org/ express
 To use the mirror for all npm commands, set the `registry` configuration variable.
 
 ```bash
-npm config set registry https://npm-booster.wnwd.eu.org/
+npm config set registry https://npm-registry.wnwd.eu.org/
 ```
