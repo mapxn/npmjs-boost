@@ -5,10 +5,10 @@
 > 一个NPM加速工具
 
 ## 节点位置
-npmjs-boost 镜像可通过 Cloudflare 在北美、南美、欧洲、非洲、亚洲和澳大利亚的许多边缘节点获得。
+npm-boost 镜像可通过 Cloudflare 在北美、南美、欧洲、非洲、亚洲和澳大利亚的许多边缘节点获得。
 
 ## 使用方法
-切换到 npmjs-boost 镜像很简单、快速和方便。
+切换到 npm-boost 镜像很简单、快速和方便。
 对单个命令,可以通过 --registry 参数传入镜像。
 
 ```bash
