@@ -5,6 +5,6 @@
 > 一个NPM镜像仓库
 - 由Cloudflare提供全球加速
 
-[GitHub](https://github.com/mapxn/npmjs.tk/)
-[Registry](https://registry.npmjs.tk)
+[GitHub](https://github.com/mapxn/npm-boost/)
+[Registry](https://npm-registry.wnwd.eu.org)
 [Start](/#points-of-presence)
