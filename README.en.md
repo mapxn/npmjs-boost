@@ -7,7 +7,7 @@
 ## Points of Presence
 
 
-The npmjs.tk mirror is available on Cloudflare's lots of edge locations in North America, South America, Europe, Africa, Asia, and Australia.
+The npm-boost mirror is available on Cloudflare's lots of edge locations in North America, South America, Europe, Africa, Asia, and Australia.
 
 ## Usage
 Switching to the npmjs.tk mirror is effortless, quick, and easy.
