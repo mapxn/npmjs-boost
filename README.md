@@ -18,5 +18,5 @@ npm install --registry https://npm-registry.wnwd.eu.org/ express
 要对所有 npm 命令使用镜像,可以设置 registry 配置变量。
 
 ```bash
-npm config set registry https://npm-booster.wnwd.eu.org/
+npm config set registry https://npm-registry.wnwd.eu.org/
 ```
