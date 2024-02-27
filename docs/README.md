@@ -4,7 +4,7 @@
 The npmjs-boost mirror is available on Cloudflare's lots of edge locations in North America, South America, Europe, Africa, Asia, and Australia.
 
 ## Usage
-Switching to the npmjs-boost mirror is effortless, quick, and easy.
+Switching to the npm-boost mirror is effortless, quick, and easy.
 
 For a single command, pass the mirror to the `--registry` argument.
 
